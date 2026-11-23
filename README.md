@@ -43,7 +43,7 @@ Python 3.12 · Django 5.1 · Django REST Framework 3.15 · Simple JWT · Djoser 
 **Требования:** Python 3.10+ (проверено на 3.12).
 
 ```bash
-git clone https://github.com/JuliaDJ1/api-final-yatube.git
+git clone https://github.com/vadim-guseinov/api-final-yatube.git
 cd api-final-yatube
 
 python -m venv venv
